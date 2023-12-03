@@ -35,7 +35,7 @@ The Gibbs Sampling implementation  in this repository follows these key steps:
 ## Particle Filtering
 
 Particle Filtering is an approximate inference method used for probabilistic inference over complex Dynamic Bayesian Networks (DBNs).
-![Particle Filtering Example](/images/particle_filtering_example.png)
+![Particle Filtering Example](/particlefilter.PNG)
 
 
 ### Implementation Details
@@ -56,7 +56,7 @@ The Particle Filtering implementation  in this repository follows these key step
 ## Markov Decision Process Algorithm
 
 The Markov Decision Process (MDP) algorithm is used for decision-making in situations where the outcome is uncertain.
-![Particle Filtering Example](/images/particle_filtering_example.png)
+![Particle Filtering Example](/mdp.PNG)
 
 
 ### Implementation Details
