@@ -17,7 +17,7 @@ This repository contains Python implementations of several AI algorithms that I 
 ## Gibbs Sampling
 
 Gibbs Sampling is a Monte Carlo algorithm for obtaining a sequence of observations from a multivariate probability distribution.
-![Particle Filtering Example](/images/particle_filtering_example.png)
+![Particle Filtering Example](/gibbs.PNG)
 
 
 ### Implementation Details
